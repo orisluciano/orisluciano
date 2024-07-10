@@ -1,6 +1,5 @@
 ## Hi there 👋
 <h1 style="color : blue;">I´m Luciano</h1>
-[button url="http://www.google.com"]
 <!--
 **orisluciano/orisluciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
