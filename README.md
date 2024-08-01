@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 ## Hi there 👋
 <h1 style="color : blue;">I´m Luciano</h1>
 <!--
