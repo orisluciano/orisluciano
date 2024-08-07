@@ -1,6 +1,4 @@
 ![Header](./github-header-image.png)
-## Hi there 👋
-<h1 style="color : blue;">I´m Luciano</h1>
 <!--
 **orisluciano/orisluciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
